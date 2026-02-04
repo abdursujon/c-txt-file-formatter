@@ -1,0 +1,101 @@
+   1 Cricket is a bat-and-ball game played between two teams.                  
+    2 Each team has eleven players on the field.                                
+    3 The game originated in England during the 16th century.                   
+    4 A cricket match is played on an oval-shaped field.                        
+    5 The center of the field has a rectangular pitch.                          
+    6 The pitch is 22 yards long.                                               
+    7 Two sets of wickets are placed at each end of the pitch.                  
+    8 Each wicket consists of three stumps and two bails.                       
+    9 The batting team tries to score runs.                                     
+   10 The bowling team tries to dismiss batsmen.                                
+   11 A run is scored when batsmen run between the wickets.                     
+   12 A boundary four is scored when the ball reaches the rope.                 
+   13 A six is scored when the ball clears the boundary.                        
+   14 The bowler delivers the ball from one end of the pitch.                   
+   15 The batsman stands at the opposite end.                                   
+   16 An over consists of six legal deliveries.                                 
+   17 After each over, the bowling end changes.                                 
+   18 A wicket falls when the batsman is dismissed.                             
+   19 There are ten ways to get out in cricket.                                 
+   20 Bowled is when the ball hits the stumps directly.                         
+   21 Caught is when a fielder catches the ball.                                
+   22 LBW stands for leg before wicket.                                         
+   23 Run out happens when the batsman fails to reach the crease.               
+   24 Stumped occurs when the wicketkeeper removes the bails.                   
+   25 Hit wicket is when the batsman hits their own stumps.                     
+   26 Handled ball is rarely seen in modern cricket.                            
+   27 Obstructing the field can lead to dismissal.                              
+   28 Hit the ball twice is another rare dismissal.                             
+   29 Timed out occurs when a batsman takes too long.                           
+   30 Test cricket is the longest format of the game.                           
+   31 A Test match can last up to five days.                                    
+   32 One Day International matches have 50 overs per side.                     
+   33 Twenty20 matches have 20 overs per side.                                  
+   34 The ICC governs international cricket.                                    
+   35 The Cricket World Cup is held every four years.                           
+   36 The first World Cup was held in 1975.                                     
+   37 England won the 2019 World Cup in dramatic fashion.                       
+   38 Australia has won the most World Cups.                                    
+   39 India won the 1983 and 2011 World Cups.                                   
+   40 The Ashes is played between England and Australia.                        
+   41 The series started in 1882.                                               
+   42 The name comes from a satirical obituary.                                 
+   43 The Border-Gavaskar Trophy is between India and Australia.                
+   44 Pakistan and India have a fierce cricket rivalry.                         
+   45 The IPL is the richest cricket league.                                    
+   46 The Big Bash League is popular in Australia.                              
+   47 The Caribbean Premier League features West Indian players.                
+   48 The Hundred is a new format in England.                                   
+   49 Sir Don Bradman had an average of 99.94.                                  
+   50 Sachin Tendulkar scored 100 international centuries.                      
+   51 Brian Lara holds the record for highest Test score.                       
+   52 Virat Kohli is known for his batting consistency.                         
+   53 Steve Smith has an incredible Test average.                               
+   54 Kane Williamson leads New Zealand with grace.                             
+   55 Joe Root is England's modern batting great.                               
+   56 Babar Azam represents Pakistan with elegance.                             
+   57 Muttiah Muralitharan took 800 Test wickets.                               
+   58 Shane Warne revolutionized leg spin bowling.                              
+   59 James Anderson is England's leading wicket taker.                         
+   60 Glenn McGrath was known for his accuracy.                                 
+   61 Wasim Akram mastered reverse swing.                                       
+   62 Fast bowling can exceed 150 kilometers per hour.                          
+   63 Spin bowling uses rotation to deceive batsmen.                            
+   64 Off spin turns from off to leg.                                           
+   65 Leg spin turns from leg to off.                                           
+   66 The googly is a deceptive leg spin delivery.                              
+   67 The doosra is an off spinner's wrong one.                                 
+   68 A yorker lands at the batsman's feet.                                     
+   69 A bouncer rises towards the batsman's head.                               
+   70 A slower ball deceives the batsman with pace change.                      
+   71 The new ball swings more in the air.                                      
+   72 The old ball reverses under certain conditions.                           
+   73 Fielding positions have specific names.                                   
+   74 Slip fielders stand behind the batsman.                                   
+   75 Gully is between slip and point.                                          
+   76 Point is square on the off side.                                          
+   77 Cover is in front of point.                                               
+   78 Mid off is straight on the off side.                                      
+   79 Mid on is straight on the leg side.                                       
+   80 Square leg is square on the leg side.                                     
+   81 Fine leg is behind square on the leg side.                                
+   82 Third man is behind square on the off side.                               
+   83 Long on and long off are near the boundary.                               
+   84 The wicketkeeper stands behind the stumps.                                
+   85 The captain sets the field placements.                                    
+   86 DRS stands for Decision Review System.                                    
+   87 Hawk-Eye tracks the ball trajectory.                                      
+   88 Snickometer detects edges on the bat.                                     
+   89 Hot Spot uses infrared to show contact.                                   
+   90 The third umpire reviews close decisions.                                 
+   91 A no ball gives the batting team extra runs.                              
+   92 A wide ball is called for deliveries too wide.                            
+   93 A dead ball stops play immediately.                                       
+   94 Powerplay overs have fielding restrictions.                               
+   95 The batting powerplay was used in ODIs.                                   
+   96 Free hits are given after no balls.                                       
+   97 The super over decides tied matches.                                      
+   98 Cricket brings nations together in competition.                           
+   99 The sport continues to evolve with new formats.                           
+  100 Millions of fans watch cricket worldwide.                                 
+  101 The gentleman's game remains beloved across generations. 

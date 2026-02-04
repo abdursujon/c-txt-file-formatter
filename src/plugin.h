@@ -1,0 +1,1 @@
+char* transform(const char *text);
