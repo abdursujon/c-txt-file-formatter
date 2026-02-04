@@ -4,14 +4,3 @@ Text formatter plugin specifications
 3. capitalize after .
 4. trim
 5. reverse.so
-
-How to run 
-Text file to all uppercase
-gcc -shared -fPIC -Isrc src/plugins/uppercase.c -o build/uppercase.so
-gcc src/main.c -o build/text-file-formatter -ldl
-build/text-file-formatter build/uppercase.so test/resource/test.txt
-
-Txt file to all lowercase 
-gcc -shared -fPIC -Isrc src/plugins/lowercase.c -o build/lowercase.so
-gcc src/main.c -o build/text-file-formatter -ldl
-build/text-file-formatter build/lowercase.so test/resource/test_copy.txt
